@@ -1,8 +1,8 @@
 body {
     font-family: Outfit, sans-serif;
-    background-image: url('../imagens/fundo-base-2\ \(3\).jpeg');
-    background-repeat: round;
-    background-size: contain;
+    background-image: url('../imagens/fundo-base.png');
+    background-repeat: no-repeat;
+    background-size: cover;
     min-height: 100vh;
   
 
