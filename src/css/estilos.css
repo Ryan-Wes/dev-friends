@@ -59,7 +59,7 @@ body {
 
 .cartao {
     opacity: 0;
-    background-color: blue;
+    /* background-color: blue; */
     height: 100%;
     position: absolute;
     padding: 12px;

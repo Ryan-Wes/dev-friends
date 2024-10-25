@@ -31,3 +31,4 @@ function esconderCartaoSelecionado() {
     const cartaoSelecionado = document.querySelector(".selecionado");
     cartaoSelecionado.classList.remove("selecionado");
 }
+mostrarCartao(cartaoAtual);
